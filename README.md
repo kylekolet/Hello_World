@@ -1,2 +1,6 @@
 # Hello_World
-First thing I am doing in GitHub
+
+Hello, 
+
+I am finally understanding how to use this thing 
+Nice
